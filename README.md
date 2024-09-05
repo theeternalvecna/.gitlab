@@ -1,4 +1,4 @@
-# .github
+# .gitlab
 
 > Default community health files
 
